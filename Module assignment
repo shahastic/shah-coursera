@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>link tag</title>
+</head>
+<body>
+<h1>To illustrate link tags</h1>
+<p>Text as a link/hyperlink to another page:</p>
+<a href="http://www.google.com">Click here!!!</a>
+<hr>
+<p>Image as a link/hyperlink:</p>
+<img src="IMG_20200213_185638.jpg" height="100px" width="100px" alt="screenshot"></img><br>
+<a href="http://www.yahoo.com">See also chapter 8 (link within a page)</a>
+<h4><b>Chapter 1</b></h4>
+<a href="http://www.google.com/chapter1">This chapter explains pointers</a>
+<h4><b>Chapter 2</b></h4>
+<a href="http://www.google.com/chapter2">This chapter explains pointers</a>
+<h4><b>Chapter 3</b></h4>
+<a href="http://www.google.com/chapter3">This chapter explains pointers</a>
+<h4><b>Chapter 4</b></h4>
+<a href="http://www.google.com/chapter4">This chapter explains pointers</a>
+<h4><b>Chapter 5</b></h4>
+<a href="http://www.google.com/chapter5">This chapter explains pointers</a>
+</body>
+</html>
